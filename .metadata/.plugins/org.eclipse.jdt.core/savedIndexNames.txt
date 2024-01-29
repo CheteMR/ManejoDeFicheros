@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\nacho\OneDrive\Escritorio\EDIX 2 DAM\Acceso a Datos\Actividad1Ficheros\.metadata\.plugins\org.eclipse.jdt.core
+2222751871.index
+3448802629.index
+1865797976.index
+981269029.index

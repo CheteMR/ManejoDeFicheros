@@ -1,0 +1,9 @@
+package ficheros;
+
+import java.io.Serializable;
+
+public class Articulos implements Serializable {
+	
+	
+
+}
